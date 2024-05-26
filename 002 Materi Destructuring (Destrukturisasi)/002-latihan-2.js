@@ -4,7 +4,7 @@
 const biodata = {
     namaDepan: "Hafizh",
     namaBelakang: "Asyhari",
-    umur: 21
+    umur: 18
 }
 
 const pecahkan = { satu: namaDepan, dua: namaBelakang, tiga: umur } = biodata;
